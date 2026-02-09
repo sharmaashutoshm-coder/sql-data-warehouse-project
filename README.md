@@ -5,7 +5,7 @@ This project demonstrates a comprehensive Data Warehousing and Analytics solutio
 
 ## 🏗️ Data Architecture:
 
-
+<img src = "https://github.com/sharmaashutoshm-coder/sql-data-warehouse-project/blob/e6e639872944078204b81dd674aeadf5dfade14d/docs/DWH.png">
 
 ## 📖 Project Overview:
 
