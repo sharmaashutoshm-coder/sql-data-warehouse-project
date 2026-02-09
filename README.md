@@ -56,6 +56,11 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Sales Trends**
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+
+## ↩️ Data Flow Diagram:
+
+<img src = "https://github.com/sharmaashutoshm-coder/sql-data-warehouse-project/blob/34fb1aeebdce8dfdd436cb3733e86d1946cb52d4/docs/Data%20Flow%20Diagram.png">
+
 ---
 
 ## 🛡️ License
